@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Flutter, cloud...**
 
-💬 Ask me about **Angular, Ngrx, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Angular, Ngrx, Firebase... or anything [here](https://github.com/tebeerr?tab=repositories)**
 
  </div>
  
