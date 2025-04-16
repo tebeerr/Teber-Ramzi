@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tebeerr.Teber-Ramzi" />
+
 # 💫 About Me:
 🔭 I’m currently working on development robust Web/Mobile applications<br>👯 I’m looking to collaborate...<br>🌱 I’m currently learning Docker, ML, AWS<br>💬 Ask me about Node.js, React, Firebase... or anything<br>⚡ Fun fact Game of Thrones Night's Watch cloaks are made from Ikea rugs
 
