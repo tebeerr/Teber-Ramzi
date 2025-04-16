@@ -1,5 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tebeerr.Teber-Ramzi" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ramzi+Teber!;" />
+</h1>
+
+<h3 align="center">A passionate software developer from Tunisia 🇹🇳</h3>
+
 # 💫 About Me:
 🔭 I’m currently working on development robust Web/Mobile applications<br>👯 I’m looking to collaborate...<br>🌱 I’m currently learning Docker, ML, AWS<br>💬 Ask me about Node.js, React, Firebase... or anything<br>⚡ Fun fact Game of Thrones Night's Watch cloaks are made from Ikea rugs
 
