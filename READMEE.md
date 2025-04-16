@@ -7,7 +7,7 @@
 <h3 align="center">A passionate software developer from Tunisia 🇹🇳</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on development robust Web/Mobile applications<br>👯 I’m looking to collaborate...<br>🌱 I’m currently learning Docker, ML, AWS<br>💬 Ask me about Node.js, React, Firebase... or anything<br>⚡ Fun fact Game of Thrones Night's Watch cloaks are made from Ikea rugs
+🔭 I’m currently working on development robust Web/Mobile applications<br>👯 I’m looking to collaborate...<br>🌱 I’m currently learning Docker, ML, AWS<br>💬 Ask me about Typescript, Angular, Firebase... or anything<br>⚡ Fun fact Game of Thrones Night's Watch cloaks are made from Ikea rugs
 
 
 ## 🌐 Socials:
